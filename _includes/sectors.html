@@ -5,23 +5,8 @@ Start sectors
   <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     {% assign sector_list = "" %}
     {% for page in site.pages %}
-    <!--
-      {% assign page_sectors = page.sector | split: "," %}
-      {% for sect in page_sectors %}
-        {% unless sect in sector_list %}
-          {% assign sector_list = sector_list | append: "," | append: sect %}
-        {% endunless %}
-      {% endfor %}
+      page sector [{{page.sector}}]<br>
     {% endfor %}
-    {% assign sectors = sector_list | split: "," %}
-    <ul>
-    {% for sector in sectors %}
-      {% if sector != "," %}
-        <li>{{sector}}</li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-  -->
   </div>
 </div>
 End Sectors
