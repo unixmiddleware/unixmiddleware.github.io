@@ -9,7 +9,7 @@ Start sectors
       {% for sect in page_sectors %}
         {% unless sect in sector_list %}
           page [{{page.url}}] sector [{{page.sector}}] sect [{{sect}}] sector_list [{{sector_list}}]<br>
-          {% assign sector_list = sector_list | append: "," | append: sect %}
+          {% assign sector_list = sector_list | append: "," %}
         {% endunless %}
       {% endfor %}
     {% endfor %}
