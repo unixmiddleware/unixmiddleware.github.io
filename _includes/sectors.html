@@ -2,9 +2,22 @@
   <div class="w3-card w3-container" style="min-height:460px">
   <h3>Sectors</h3><br>
   <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-  <p>Engineering</p>
-  <p>Financial</p>
-  <p>Healthcare</p>
-  <p>Tourism</p>
+    {% assign sector_list = "" %}
+    {% for page in site.pages %}
+      {% assign page_sectors = page.sector | split: "," %}
+      {% for sect inpage_sectors %}
+        {% unless sect in sector_list %}
+          {% assign sector_list = sector_list | append: "," | append: sect %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+    {% assign sectors = sector_list | split: "," %}
+    <ul>
+    {% for sector in sectors %}
+      {% if sector != "," %}
+        <li>{{sector}}</li>
+      {% endif %}
+    {% endfor %}
+    </ul>
   </div>
 </div>
