@@ -5,9 +5,9 @@ Start sectors
   <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
     {% assign sector_list = "" %}
     {% for page in site.pages %}
-      page [{{page.url}}] sector [{{page.sector}}]<br>
       {% assign page_sectors = page.sector | split: "," %}
       {% for sect in page_sectors %}
+        page [{{page.url}}] sector [{{page.sector}}] sect [{{sect}}]<br>
       {% endfor %}
     {% endfor %}
   </div>
