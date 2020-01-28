@@ -8,7 +8,7 @@ Start sectors
       {% assign page_sectors = page.sector | split: "," %}
       {% for sect in page_sectors %}
         {% unless sect in sector_list %}
-          page [{{page.url}}] sector [{{page.sector}}] sect [{{sect}}] sector_list [{{sector_list}}]<br>
+          page [{{page.url}}] sector [{{page.sector}}] sect [{{sect}}]<br>
         {% endunless %}
       {% endfor %}
     {% endfor %}
