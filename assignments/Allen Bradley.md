@@ -1,7 +1,6 @@
 ---
-Layout: "default"
-title: "Allen Bradley, Bletchley"
-name: Allen Bradley
+layout: default
+title: Allen Bradley
 position: Developer
 start date: 1987
 end date: 1988

@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <title>{{ page.url }}</title>
+  <title>{{ page.title }}</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% include links.html %}
+  {% include sectors.html %}
   <body>
-    {% include header.html %}
-    {% include sitemap.html %}
-    {% include subsections.html %}
-    {% include category1.html %}
-    {% include category2.html %}
-    {% include sitenav.html %}
-    {% include scripts.html %}
+      {% include sitenav.html %}
+      {% include content.html %}
+      {% include scripts.html %}
   </body>
 </html>

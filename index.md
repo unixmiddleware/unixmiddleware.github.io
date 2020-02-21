@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Welcome"
+title: Welcome
 url: /index.html
 sidebar: sitenav.html
 ---
-index.md<br>
+

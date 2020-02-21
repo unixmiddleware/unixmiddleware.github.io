@@ -1,17 +1,10 @@
-Start sectors
-<div class="w3-third">
-  <div class="w3-card w3-container" style="min-height:460px">
-  <h3>Sectors</h3><br>
-  <i class="fa fa-desktop w3-margin-bottom w3-text-theme" style="font-size:120px"></i>
-    {% assign sector_list = "" %}
-    {% for page in site.pages %}
-      {% assign page_sectors = page.sector | split: "," %}
-      {% for sect in page_sectors %}
-        {% unless sect in sector_list %}
-          page [{{page.url}}] sector [{{page.sector}}]<br>
-        {% endunless %}
-      {% endfor %}
-    {% endfor %}
-  </div>
-</div>
-End Sectors
+{% assign sector_list = "" %}
+{% for page in site.pages %}
+  {% assign page_sectors = page.sector | split: "," %}
+  {% for sect in page_sectors %}
+    {% unless sector_list contains sect %}
+      {% assign sector_list = sector_list | append: "," | append: sect %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+{% assign sectors = sector_list | split: "," | sort_natural: | compact: %}

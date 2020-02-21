@@ -1,6 +1,6 @@
 ---
-layout: "default"
-title: "ICL Medicl, Birmingham"
+layout: default
+title: ICL Medicl
 sector: Healthcare
 ---
 # ICL Medicl 

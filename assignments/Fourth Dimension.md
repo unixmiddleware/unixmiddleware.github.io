@@ -1,6 +1,6 @@
 ---
-layout: "default"
-title: "Fourth Dimension, West Midlands"
+layout: default
+title: Fourth Dimension
 sector: Engineering,Tourism
 ---
 # Forth Dimension

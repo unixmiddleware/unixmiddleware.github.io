@@ -1,5 +1,5 @@
 ---
-title: Racal Redac, Tewkesbury
+title: Racal Redac
 name: Racal Redac
 position: Developer
 start date: 1987

@@ -1,6 +1,6 @@
 ---
-layout: "default"
-title: "Intrum Justitia, Stratford Upon Avon"
+layout: default
+title: Intrum Justitia
 sector: Financial Services
 ---
 # Intrum Justitia

@@ -1,9 +1,12 @@
 ---
-layout: "default"
-title: "British Telecom, Ipswich"
+layout: default
+title: British Telecom
+position: Developer
+start date: 1987
+end date: 1988
 sector: Engineering
 ---
-# British Telecom 
+# British Telecom
 - Ipswich
 
 ## Roles:		
@@ -14,5 +17,5 @@ sector: Engineering
 
 ## Summary:
 -	I was responsible for the development of C++ class libraries written on UNIX to support a workflow and technician management project.
-- This involved using Oracle RDBMS’s on Sun, HP, Sequent, Amdahl and DEC Ultrix UNIX hosts. 
+- This involved using Oracle RDBMS’s on Sun, HP, Sequent, Amdahl and DEC Ultrix UNIX hosts.
 - The majority of the work was in PL/SQL and embedded Pro*C.
