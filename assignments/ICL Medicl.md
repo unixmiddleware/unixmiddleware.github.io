@@ -2,6 +2,8 @@
 layout: default
 title: ICL Medicl
 sector: Healthcare
+date: "1993-09-01"
+os: Novell,ICL DRS/NX,Windows
 ---
 # ICL Medicl 
 - Birmingham

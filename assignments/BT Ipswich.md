@@ -2,9 +2,9 @@
 layout: default
 title: British Telecom
 position: Developer
-start date: 1987
-end date: 1988
+date: "1992-09-01"
 sector: Engineering
+os: Solaris,HP-UX
 ---
 # British Telecom
 - Ipswich

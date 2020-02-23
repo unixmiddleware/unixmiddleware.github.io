@@ -1,0 +1,29 @@
+{% assign tline = '' %}
+{% for page in site.pages %}
+  {% assign tline = tline | append: ',' | append: page.date %}
+{% endfor %}
+{% assign timeline = tline | split: ","| sort: | reverse: %}
+
+{% assign pline = '' %}
+{% for this_date in timeline %}
+  {% for page in site.pages %}
+    {% if page.date == this_date %}
+      {% assign pline = pline | append: ',' | append: this_date | append: ':' | append: page.title | append: ':' | append: page.url %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+{% assign history = pline | split: "," %}
+
+
+<div class="w3-dropdown-hover w3-right">
+  <button class="w3-button w3-mobile">History</button>
+  <div class="w3-dropdown-content w3-bar-block w3-card-4">
+    {% for place in history %}
+      {% if place.size > 0 %}
+        {% assign data = place   | split: ':' %}
+        {% assign year = data[0] | split: '-' | first: %}
+          <a href="{{data[2]}}" class="w3-bar-item w3-button">{{ year }} - {{ data[1] }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

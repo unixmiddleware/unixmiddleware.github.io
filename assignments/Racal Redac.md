@@ -1,10 +1,11 @@
 ---
+layout: default
 title: Racal Redac
 name: Racal Redac
 position: Developer
-start date: 1987
-end date: 1988
+date: "1988-08-01"
 sector: Engineering
+os: Apollo Domain,VAX VMS
 ---
 # Racal Redac
 - Tewkesbury

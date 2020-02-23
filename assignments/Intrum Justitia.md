@@ -2,6 +2,8 @@
 layout: default
 title: Intrum Justitia
 sector: Financial Services
+date: "1999-01-01"
+os: HP-UX
 ---
 # Intrum Justitia
 - Stratford Upon Avon

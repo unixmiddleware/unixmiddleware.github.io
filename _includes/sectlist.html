@@ -1,0 +1,18 @@
+{% for this_sector in sectors %}
+  {% if this_sector.size > 0 %}
+    <div class="w3-dropdown-hover">
+      <button class="w3-button w3-mobile">{{this_sector}}</button>
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        {% for page in site.pages %}
+          {% assign page_sectors = page.sector | split: "," %}
+          {% for sect in page_sectors %}
+            {% if sect == this_sector %}
+              <a href="{{page.url}}" class="w3-bar-item w3-button">{{ page.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+

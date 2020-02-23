@@ -2,9 +2,9 @@
 layout: default
 title: Allen Bradley
 position: Developer
-start date: 1987
-end date: 1988
+date: "1987-01-01"
 sector: Engineering
+os: VAX VMS,DEC PDP11,Embedded
 ---
 # Allen Bradley Automation Systems
 - Bletchley, Milton Keynes

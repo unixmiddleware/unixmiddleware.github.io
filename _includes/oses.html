@@ -1,0 +1,25 @@
+{% assign os_list = "" %}
+{% for page in site.pages %}
+  {% assign oses = page.os | split: "," %}
+  {% for os in oses %}
+    {% assign os = os | strip: %}
+    {% if os.size > 0 %}
+      {% unless os_list contains os %}
+        {% assign os_list = os_list | append: "," | append: os %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+{% assign oses = os_list |split: ","| uniq: |sort_natural: |compact: %}
+
+<div class="w3-dropdown-hover w3-right">
+  <button class="w3-button w3-mobile">OS</button>
+  <div class="w3-dropdown-content w3-bar-block w3-card-4">
+    {% for ops in oses %}
+      {% if ops.size > 0 %}
+        <a href="/os/{{ops}}.html" class="w3-bar-item w3-button">{{ops}}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+

@@ -1,15 +1,10 @@
 <!-- Side Navigation -->
 <div class="w3-container">
   <div class="w3-bar w3-green">
-    {% for this_sector in sectors %}
-      {% if this_sector.size > 0 %}
-        <div class="w3-dropdown-hover">
-          <button class="w3-button w3-mobile">{{this_sector}}</button>
-          <div class="w3-dropdown-content w3-bar-block w3-card-4">
-            {% include pagelist.html %}
-          </div>
-        </div>
-      {% endif %}
-    {% endfor %}
+    {% include about.html %}
+    {% include oses.html %}
+    {% include homepage.html %}
+    {% include sectlist.html %}
+    {% include timeline.html %}
   </div>
 </div>

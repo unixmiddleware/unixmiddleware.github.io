@@ -2,6 +2,8 @@
 layout: default
 title: Fourth Dimension
 sector: Engineering,Tourism
+date: "1987-12-01"
+os: VAX VMS,Embedded
 ---
 # Forth Dimension
 - Sutton Coldfield, West Midlands
