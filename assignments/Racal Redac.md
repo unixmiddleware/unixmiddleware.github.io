@@ -6,6 +6,8 @@ position: Developer
 date: "1988-08-01"
 sector: Engineering
 os: Apollo Domain,VAX VMS
+languages: C,DCL,Informix 4GL,sh
+devops: VAX versioning,make
 ---
 # Racal Redac
 - Tewkesbury
@@ -19,8 +21,8 @@ os: Apollo Domain,VAX VMS
 ## Summary:
 -	I assisted in the ‘porting’ of CAD/CAM software written in ‘C’ for use on UNIX hosts to run under DEC VAX VMS. 
 -	Extensive programming in 
-  - UNIX shell scripts
-  - VMS DCL scripts
-  - Informix databases
-  - several variants of C 
-  - Informix 4GL.
+	- UNIX shell scripts
+	- VMS DCL scripts
+	- Several variants of C 
+	- Informix databases
+	- Informix 4GL.

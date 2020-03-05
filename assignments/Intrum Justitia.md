@@ -4,6 +4,8 @@ title: Intrum Justitia
 sector: Financial Services
 date: "1999-01-01"
 os: HP-UX
+languages: PL/SQL,perl,sh
+devops: sccs,make
 ---
 # Intrum Justitia
 - Stratford Upon Avon
@@ -22,4 +24,4 @@ os: HP-UX
 -	Managed the integration of several legacy systems into mainstream system for roll out to European sites. 
 -	Tested infrastructures and throughput on WinFrame and 2Mbit kilostreams to Holland, Austria and other European centres.
 -	Provided database replication facilities and supported systems and user acceptance test.
--	Managed a team of four developers and six system and UAT testers.
+-	Managed a team of four developers and six system/UAT testers.

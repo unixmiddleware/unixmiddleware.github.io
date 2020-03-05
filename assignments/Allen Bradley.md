@@ -5,6 +5,8 @@ position: Developer
 date: "1987-01-01"
 sector: Engineering
 os: VAX VMS,DEC PDP11,Embedded
+languages: C,FORTRAN,PL/M-386,CADB-4GL,perl,sh
+devops: VAX versioning,make
 ---
 # Allen Bradley Automation Systems
 - Bletchley, Milton Keynes
@@ -23,7 +25,7 @@ os: VAX VMS,DEC PDP11,Embedded
 -	The server software was written in DEC Ultrix and VAX/VMS C and the client software in a 4GL supplied with CA DB and which was compatible with Oracle.
 -	Besides administering the databases, Unix and VMS hosts I programmed embedded processor system based on i386 CPU’s in PL/M-386. 
 -	I wrote programs in FORTRAN on a PDP11 to facilitate data transfer between Allen Bradley PLCs and
-  * Unix
-  * VMS
-  * PDP11
-  * embedded processors (using PL/M-386)
+	*	Unix
+	*	VMS
+	*	PDP11
+	*	embedded processors (using PL/M-386)

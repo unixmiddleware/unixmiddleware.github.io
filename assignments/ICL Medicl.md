@@ -4,6 +4,8 @@ title: ICL Medicl
 sector: Healthcare
 date: "1993-09-01"
 os: Novell,ICL DRS/NX,Windows
+languages: Borland C++,Informix 4GL,Sybase 4GL,perl,sh
+devops: sccs,make
 ---
 # ICL Medicl 
 - Birmingham

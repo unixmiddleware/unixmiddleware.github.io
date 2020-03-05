@@ -5,6 +5,8 @@ position: Developer
 date: "1992-09-01"
 sector: Engineering
 os: Solaris,HP-UX
+languages: C,C++,PL/SQL,Pro*C,sh
+devops: make
 ---
 # British Telecom
 - Ipswich
