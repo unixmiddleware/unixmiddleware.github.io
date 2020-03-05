@@ -1,0 +1,26 @@
+{% assign devops_list = "" %}
+{% for page in site.pages %}
+  {% assign devops = page.devops | split: "," %}
+  {% for devop in devops %}
+    {% assign devop = devop | strip: %}
+    {% if devop.size > 0 %}
+      {% unless devops_list contains devop %}
+        {% assign devops_list = devops_list | append: "," | append: devop %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+{% assign devops = devops_list |split: ","| uniq: |sort_natural: |compact: %}
+
+<div class="w3-dropdown-hover w3-right">
+  <button class="w3-button w3-mobile">Devops</button>
+  <div class="w3-dropdown-content w3-bar-block w3-card-4">
+    {% for devop in devops %}
+      {% if devop.size > 0 %}
+       {% assign url = devop | replace: '/' '' %}
+        <a href="/devops/{{url}}.html" class="w3-bar-item w3-button">{{devop}}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+

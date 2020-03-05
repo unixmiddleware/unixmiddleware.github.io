@@ -1,0 +1,26 @@
+{% assign lang_list = "" %}
+{% for page in site.pages %}
+  {% assign langs = page.languages | split: "," %}
+  {% for lang in langs %}
+    {% assign lang = lang | strip: %}
+    {% if lang.size > 0 %}
+      {% unless lang_list contains lang %}
+        {% assign lang_list = lang_list | append: "," | append: lang %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+{% assign langs = lang_list |split: ","| uniq: |sort_natural: |compact: %}
+
+<div class="w3-dropdown-hover w3-right">
+  <button class="w3-button w3-mobile">Languages</button>
+  <div class="w3-dropdown-content w3-bar-block w3-card-4">
+    {% for lang in langs %}
+      {% if lang.size > 0 %}
+       {% assign url = lang | replace: '/' '' %}
+        <a href="/languages/{{url}}.html" class="w3-bar-item w3-button">{{lang}}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
