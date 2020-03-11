@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fourth Dimension
-sector: Engineering,Tourism
+sector: Engineering,Leisure
 date: "1987-12-01"
 os: VAX VMS,Embedded
 languages: Z80 Assembler,6502 Assembler,DEC Basic 3+,Pro IV
