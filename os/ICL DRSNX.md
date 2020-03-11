@@ -1,4 +1,5 @@
 ---
 layout: default
 ---
-[ICL DRSNX @ ICL Medicl](/assignments/ICL%20Medicl.html)<br>
+# ICL DRS/NX
+* [ICL Medicl](/assignments/ICL%20Medicl.html)

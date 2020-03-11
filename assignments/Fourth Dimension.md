@@ -6,6 +6,7 @@ date: "1987-12-01"
 os: VAX VMS,Embedded
 languages: Z80 Assembler,6502 Assembler,DEC Basic 3+,Pro IV
 devops: VAX versioning
+password: s00pers3cr3t
 ---
 # Forth Dimension
 - Sutton Coldfield, West Midlands

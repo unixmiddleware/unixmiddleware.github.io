@@ -17,7 +17,8 @@
   <div class="w3-dropdown-content w3-bar-block w3-card-4">
     {% for ops in oses %}
       {% if ops.size > 0 %}
-        <a href="/os/{{ops}}.html" class="w3-bar-item w3-button">{{ops}}</a>
+        {% assign url = ops | replace: '/' '' %}
+        <a href="/os/{{url}}.html" class="w3-bar-item w3-button">{{ops}}</a>
       {% endif %}
     {% endfor %}
   </div>

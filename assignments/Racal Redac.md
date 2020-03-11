@@ -8,6 +8,7 @@ sector: Engineering
 os: Apollo Domain,VAX VMS
 languages: C,DCL,Informix 4GL,sh
 devops: VAX versioning,make
+password: s00pers3cr3t
 ---
 # Racal Redac
 - Tewkesbury

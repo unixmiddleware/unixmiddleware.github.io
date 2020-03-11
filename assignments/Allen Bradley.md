@@ -5,8 +5,9 @@ position: Developer
 date: "1987-01-01"
 sector: Engineering
 os: VAX VMS,DEC PDP11,Embedded
-languages: C,FORTRAN,PL/M-386,CADB-4GL,perl,sh
+languages: C,FORTRAN,PL/M-386,CADB-4GL,PERL,sh
 devops: VAX versioning,make
+password: s00pers3cr3t
 ---
 # Allen Bradley Automation Systems
 - Bletchley, Milton Keynes

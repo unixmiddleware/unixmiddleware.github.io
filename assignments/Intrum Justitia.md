@@ -4,8 +4,9 @@ title: Intrum Justitia
 sector: Financial Services
 date: "1999-01-01"
 os: HP-UX
-languages: PL/SQL,perl,sh
+languages: PL/SQL,PERL,sh
 devops: sccs,make
+password: s00pers3cr3t
 ---
 # Intrum Justitia
 - Stratford Upon Avon

@@ -7,6 +7,7 @@ sector: Engineering
 os: Solaris,HP-UX
 languages: C,C++,PL/SQL,Pro*C,sh
 devops: make
+password: s00pers3cr3t
 ---
 # British Telecom
 - Ipswich
