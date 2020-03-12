@@ -1,12 +1,14 @@
 ---
 layout: default
 title: ICL Medicl
+name: ICL Medicl
 sector: Healthcare
 date: "1993-09-01"
+end_date: "1995-07-01"
 os: Novell,ICL DRS/NX,Windows
 languages: Borland C++,Informix 4GL,Sybase 4GL,PERL,sh
 devops: sccs,make
-password: s00pers3cr3t
+position: Oracle DBA / Unix SA
 ---
 # ICL Medicl 
 - Birmingham

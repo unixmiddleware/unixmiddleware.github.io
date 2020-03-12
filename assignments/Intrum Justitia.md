@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Intrum Justitia
+name: Intrum Justitia
+position: Oracle DBA
 sector: Financial Services
 date: "1999-01-01"
+end_date: "1999-06-01"
 os: HP-UX
 languages: PL/SQL,PERL,sh
 devops: sccs,make
-password: s00pers3cr3t
 ---
 # Intrum Justitia
 - Stratford Upon Avon

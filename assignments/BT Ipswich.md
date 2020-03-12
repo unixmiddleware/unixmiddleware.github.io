@@ -1,13 +1,14 @@
 ---
 layout: default
 title: British Telecom
-position: Developer
+name: British Telecom
+position: Software Engineer
 date: "1992-09-01"
+end_date: "1993-09-01"
 sector: Engineering
 os: Solaris,HP-UX
 languages: C,C++,PL/SQL,Pro*C,sh
 devops: make
-password: s00pers3cr3t
 ---
 # British Telecom
 - Ipswich

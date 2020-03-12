@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Allen Bradley
-position: Developer
+name: Allen Bradley
+position: Software Engineer
 date: "1987-01-01"
+end_date: "1992-09-01"
 sector: Engineering
 os: VAX VMS,DEC PDP11,Embedded
 languages: C,FORTRAN,PL/M-386,CADB-4GL,PERL,sh
 devops: VAX versioning,make
-password: s00pers3cr3t
 ---
 # Allen Bradley Automation Systems
 - Bletchley, Milton Keynes

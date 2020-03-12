@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Fourth Dimension
+name: Fourth Dimension
 sector: Engineering,Leisure
 date: "1987-12-01"
+end_date: "1988-08-01"
 os: VAX VMS,Embedded
 languages: Z80 Assembler,6502 Assembler,DEC Basic 3+,Pro IV
 devops: VAX versioning
-password: s00pers3cr3t
+position: Develop Team Leader
 ---
 # Forth Dimension
 - Sutton Coldfield, West Midlands
 
 ## Roles:		
-- Development Manager 
+- Team Leader 
 - Last permanent employment job.
 
 ## Dates: 		

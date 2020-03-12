@@ -2,13 +2,13 @@
 layout: default
 title: Racal Redac
 name: Racal Redac
-position: Developer
+position: Software Engineer
 date: "1988-08-01"
+end_date: "1989-03-01"
 sector: Engineering
 os: Apollo Domain,VAX VMS
 languages: C,DCL,Informix 4GL,sh
 devops: VAX versioning,make
-password: s00pers3cr3t
 ---
 # Racal Redac
 - Tewkesbury
