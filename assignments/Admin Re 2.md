@@ -7,7 +7,7 @@ date: "2018-03-01"
 end_date: "2020-05-01"
 sector: Financial Services
 os: HP-UX,linux
-languages: python,c,sh
+languages: python,C,sh
 devops: Ansible,Ansible Tower,Azure
 ---
 # Admin Re
