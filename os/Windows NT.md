@@ -1,6 +1,5 @@
 ---
 layout: default
 ---
-# AS/400
-* [Toby Restaurants](/assignments/Toby%20Restaurants.html)
+# Windows NT
 * [CAP Gemini](/assignments/CAP%20Gemini.html)
