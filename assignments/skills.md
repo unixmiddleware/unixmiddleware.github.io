@@ -20,8 +20,8 @@ end_date: May 2020
 |7|Current - Excellent|Oracle SOA administration, configuration and maintenance on RHEL Linux platform, WebLogic Admin, Apache admin|12|
 |6|Current - Excellent|UNIX C, gcc|30|
 |5|Current - Excellent|Oracle DBA – v6, v7, v8, v9, v10, v11 and v12|26|
-|4|Dates - Competent|Oracle Service Bus admin, configuration and maintenance on RHEL Linux platform|8|
-|3|Dates - Competent|J2EE, JSP. Eclipse, Jet Brains, IntelliJ|18|
+|4|Dated - Competent|Oracle Service Bus admin, configuration and maintenance on RHEL Linux platform|8|
+|3|Dated - Competent|J2EE, JSP. Eclipse, Jet Brains, IntelliJ|18|
 |2|Dated - Good|HP-UX and redhat linux systems administrator|20|
 |1|Dated - Competent|AIX, Sun, DEC, SGI, ICL UNIX systems administrator|20|
 
