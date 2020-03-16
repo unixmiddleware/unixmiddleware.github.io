@@ -10,7 +10,9 @@ languages: Fortran
 ---
 # Master of Science
 - University of Warwick
-* [Degree Certificate](/assets/docs/Degree%20Certificate.pdf)
+* [Degree Certificate](/assets/docs/DegreeCertificate.pdf)
+
+![Degree Certificate](/assets/docs/msc_certificate.png){:class="w3-round-small"}
 
 ## Roles:		
 - Physical Chemistry Researcher

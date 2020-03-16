@@ -2,7 +2,7 @@
 layout: default
 title: Admin Re 2
 name: Admin Re
-position: Oracle DBA
+position: Data Migration DBA
 date: "2018-03-01"
 end_date: "2020-05-01"
 sector: Financial Services

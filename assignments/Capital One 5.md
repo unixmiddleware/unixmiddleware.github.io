@@ -2,7 +2,7 @@
 layout: default
 title: Capital One 5
 name: Capital One Bank
-position: Unix Team Leader
+position: AWS/MQ Engineer
 date: "2016-10-01"
 end_date: "2018-03-01"
 sector: Financial Services

@@ -2,7 +2,7 @@
 layout: default
 title: Capital One 3
 name: Capital One Bank
-position: Unix Team Leader
+position: Middleware Engineer
 date: "2003-05-01"
 end_date: "2008-04-01"
 sector: Financial Services

@@ -2,7 +2,7 @@
 layout: default
 title: Lunn Poly
 name: Lunn Poly
-position: Software Engineer
+position: Middleware Engineer
 date: "2001-09-01"
 end_date: "2003-02-01"
 sector: Leisure
