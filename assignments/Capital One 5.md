@@ -21,7 +21,7 @@ devops: Chef,Ansible,Nexus,Artifactory,Jenkins,Gitlab,Github,Docker,AWS
 - October 2016 – March 2018
 
 ## Summary: 		
--	Agile tools
+-	Agile develpoment life cycle
 	- Confluence
 	- Jira
 	- Scrum and Sprints
@@ -52,7 +52,7 @@ devops: Chef,Ansible,Nexus,Artifactory,Jenkins,Gitlab,Github,Docker,AWS
 -	AWS – Migrating MQ Services to the Cloud
 	- Designed and implemented fully resilient load balanced multi-region IBM MQ messaging service supporting the banking clearance houses (TSYS).
 		* Python
-		* CloudFormation mostly, a little Terraform intially
+		* Troposphere mostly, a little Terraform initially
 	- [AWS Solutions Architect Certificate](/assets/docs/awsSolutionsArchitect_AE.pdf)
 -	Docker
 	- Automated the build and deployment of tomcat instances within docker containers and secure ways of updating software
