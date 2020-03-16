@@ -21,14 +21,42 @@ devops: Chef,Ansible,Nexus,Artifactory,Jenkins,Gitlab,Github,Docker,AWS
 - October 2016 – March 2018
 
 ## Summary: 		
+-	Agile tools
+	- Confluence
+	- Jira
+	- Scrum and Sprints
+	- Epics, Stories, Backlogs, Kanban
 -	Tomcat
+	- Automated the build and deployment of Online Banking App using RESTful api.
+		* Java
 -	Tomee
+	- Automated the build and deployment of Online Banking App using RESTful api.
+		* Java
 -	Chef
+	- Created recipes for automated installation and management of Tomcat and Tomee instances both On Prem and in AWS cloud.
+		* Ruby
 -	Ansible
+	- Evaluated the use of Ansible with Azure
 -	Nexus & Artifactory
--	Jenkins
+	- Installed, configured and maintained both Nexus and Artifactory repositories
+-	Hudson and Jenkins
+	- Installed, maintained and created many CI/CD pipelines using Nexus and Artifactory with Hudson and Jenkins
+		* Groovy
+		* ant
+		* maven
+		* ivy
+		* gradle
 -	Gitlab & Github
+	- Initially automated the deployment and refresh of Gitlab (Enterprise) and then helped move projects to Github
+	- ClearCase to github migrations
 -	AWS – Migrating MQ Services to the Cloud
+	- Designed and implemented fully resilient load balanced multi-region IBM MQ messaging service supporting the banking clearance houses (TSYS).
+		* Python
+		* CloudFormation mostly, a little Terraform intially
 	- [AWS Solutions Architect Certificate](/assets/docs/awsSolutionsArchitect_AE.pdf)
 -	Docker
+	- Automated the build and deployment of tomcat instances within docker containers and secure ways of updating software
 -	WebLogic
+	- Installed, upgraded and secured many Oracle WebLogic instances including development, test and production services.
+-	AppDynamics
+	- Installed, configured and automated deployment of AppDynamics for evaluation and eventual adoption

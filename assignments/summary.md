@@ -6,9 +6,6 @@ position: Software Engineer
 date: September 1979
 end_date: May 2020
 ---
-## Dates:
-- September 1979 - May 2020
-
 ## Assignment History
 
 

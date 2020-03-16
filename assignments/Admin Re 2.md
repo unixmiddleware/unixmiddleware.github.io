@@ -20,8 +20,6 @@ devops: Ansible,Ansible Tower,Azure
 - March 2018 - May 2020
 
 ## Summary:
-
-### DevOps
 -	migration of pension data from acquired system to Admin Re's ALPHA 
 -	sqlldr scripts for loading extracted data
 -	pandas and openpyxl for extracting data from Excel workbooks.

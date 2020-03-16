@@ -20,9 +20,15 @@ devops: GoCD,Artifactory,Jenkins
 - July 2016 - September 2016
 
 ## Summary:
--	GoCD
--	Artifactory
--	Jenkins
+-	Agile project life cycle
+	- Scrum
+	- Sprints
+-	IBM MQ infrastructure design, install and testing on redhat linux
+-	CI/CD
+	- GoCD
+	- Artifactory
+	- Jenkins
+	- Gradle
 -	Solaris scripting
--	Oracle DBA
--	Password Encryption/Decryption Automation
+-	Oracle DBA (solaris)
+-	Password Encryption/Decryption Automation on Windows Servers
