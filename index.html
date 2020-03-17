@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body id="myPage">
+
+<!-- Work Row -->
+<div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
+<h1 class="w3-center">Unix Middleware</h1>
+
+<div class="w3-quarter">
+<h2>Middleware</h2>
+<a href="https://en.wikipedia.org/wiki/Middleware"> Wikipedia</a> provides a good definition of middleware:
+
+Middleware is computer software that provides services to software applications beyond those available from the operating system. It can be described as "software glue".
+
+<h2>Our Work</h2>
+<p>Unix Middleware provide contract software engineers who have over 30 years experience in middleware technologies including
+</p>
+<ul>
+<li>IBM Websphere MQ</li>
+<li>IBM Datapower</li>
+<li>WebLogic</li>
+<li>Oracle</li>
+</ul>
+
+We primarily work with Unix like systems:
+<ul>
+<li>       Redhat
+<li>       HP-UX
+<li>       Solaris
+</ul>
+
+and none unix like:
+<ul>
+<li>       VAX VMS
+<li>       MSDOS/Windows
+<li>       AS/400
+</ul>
+</div>
+
+<div class="w3-quarter">
+<div class="w3-card w3-white">
+  <img src="https://www.w3schools.com/w3images/snow.jpg" alt="Snow" style="width:100%">
+  <div class="w3-container">
+  <h3>Financial Services</h3>
+  <h4>Life Assurance</h4>
+  <p>ETL - Oracle,Pandas,Excel</p>
+  <p>CI/CD - Ansible,Tower,VSTS</p>
+  <p>Data Replication - Oracle Data Pump</p>
+  <p>Visulization - Bokeh</p>
+  </div>
+  </div>
+</div>
+
+<div class="w3-quarter">
+<div class="w3-card w3-white">
+  <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Lights" style="width:100%">
+  <div class="w3-container">
+  <h3>Financial Services</h3>
+  <h4>Banking</h4>
+  <p>AWS - WebSphereMQ,Tomcat</p>
+  <p>Agile - Scrum,Sprints,Kanban</p>
+  <p>IaC- Troposphere</p>
+  <p>Chef - Python,Ruby</p>
+  </div>
+  </div>
+</div>
+
+<div class="w3-quarter">
+<div class="w3-card w3-white">
+  <img src="https://www.w3schools.com/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+  <div class="w3-container">
+  <h3>Financial Services</h3>
+  <h4>Building Society</h4>
+  <p>WebSphere MQ</p>
+  <p>Confluence,Jira</p>
+  <p>GoCD</p>
+  <p>Artifactory</p>
+  </div>
+  </div>
+</div>
+
+</div>
+
+<!-- Contact Container -->
+<div class="w3-container w3-padding-64 w3-theme-l5" id="contact">
+  <div class="w3-row">
+    <div class="w3-col m5">
+    <div class="w3-padding-16"><span class="w3-xlarge w3-border-teal w3-bottombar">Contact Us</span></div>
+      <p><i class="fa fa-map-marker w3-text-teal w3-xlarge"></i>  Midlands, UK</p>
+      <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  unixmiddleware@gmail.com</p>
+    </div>
+  </div>
+</div>
+
+
+<script>
+// Script for side navigation
+function w3_open() {
+  var x = document.getElementById("mySidebar");
+  x.style.width = "300px";
+  x.style.paddingTop = "10%";
+  x.style.display = "block";
+}
+
+// Close side navigation
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+
+// Used to toggle the menu on smaller screens when clicking on the menu button
+function openNav() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
+</body>
+</html>
+
