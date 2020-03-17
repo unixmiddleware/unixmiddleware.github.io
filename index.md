@@ -1,4 +1,5 @@
 ---
+layout:
 title: Welcome
 url: /index.html
 ---
