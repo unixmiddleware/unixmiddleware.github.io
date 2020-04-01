@@ -23,7 +23,7 @@ end_date: May 2020
 |16|[Capital One Bank](Capital%20One%202.html)|Middleware Engineer|August 2000|August 2001|
 |15|[Capital One Bank](Capital%20One%201.html)|Oracle Team Leader|February 2000|July 2000|
 |14|[Intrum Justitia](Intrum%20Justitia.html)|Oracle DBA|January 1999|June 1999|
-|13|[CAP Gemini](CAP%20Gemini.html)|Oracle Financials DBA|February 1998|January 1999|
+|13|[Capgemini](Capgemini.html)|Oracle Financials DBA|February 1998|January 1999|
 |12|[Windsor Life Assurance](Windsor%20Life.html)|Software Engineer|July 1995|January 1998|
 |11|[ICL Medicl](ICL%20Medicl.html)|Oracle DBA / Unix SA|September 1993|July 1995|
 |10|[British Telecom](BT%20Ipswich.html)|Software Engineer|September 1992|September 1993|

@@ -2,8 +2,8 @@
 layout: default
 title: Skills
 name: Skills
-date: September 1979
-end_date: May 2020
+# date: September 1979
+# end_date: May 2020
 ---
 ## Skills Summary
 
