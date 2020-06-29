@@ -1,26 +1,26 @@
 ---
 layout: default
-title: Admin Re 2
-name: Admin Re
+title: ReAssure 2
+name: ReAssure
 position: Data Migration DBA
 date: "2018-03-01"
-end_date: "2020-05-01"
+end_date: "2020-09-01"
 sector: Financial Services
 os: HP-UX,linux
 languages: python,C,sh
 devops: Ansible,Ansible Tower,Azure
 ---
-# Admin Re
+# ReAssure
 - Telford
 
 ## Roles:		
 - Data Migration DBA
 
 ## Dates: 		
-- March 2018 - May 2020
+- March 2018 - September 2020
 
 ## Summary:
--	migration of pension data from acquired system to Admin Re's ALPHA 
+-	migration of pension data from acquired system to ReAssure's ALPHA 
 -	sqlldr scripts for loading extracted data
 -	pandas and openpyxl for extracting data from Excel workbooks.
 -	python generator based parsing and extraction of huge fixed length data files

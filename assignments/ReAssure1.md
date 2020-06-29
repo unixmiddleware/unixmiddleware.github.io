@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Admin Re 1
-name: Admin Re
+title: ReAssure 1
+name: ReAssure
 position: Oracle DBA
 date: "2007-04-01"
 end_date: "2010-02-01"
@@ -10,7 +10,7 @@ os: HP-UX
 languages: C,DCL,Informix 4GL,sh
 devops: VAX versioning,make
 ---
-# Admin Re
+# ReAssure
 - Telford
 
 ## Roles:		

@@ -4,7 +4,7 @@ title: Timeline
 name: Timeline
 position: Software Engineer
 date: September 1979
-end_date: May 2020
+end_date: September 2020
 ---
 ## Assignment History
 
@@ -12,12 +12,12 @@ end_date: May 2020
 {:.w3-table-all}
 |No|  Company |     Role/Title     |    From    |    To    |
 |--|----------|:------------------:|:----------:|:--------:|
-|24|[Admin Re](Admin%20Re%202.html)|Data Migration DBA|March 2018|May 2020|
+|24|[ReAssure](ReAssure2.html)|Data Migration DBA|March 2018|September 2020|
 |23|[Capital One Bank](Capital%20One%205.html)|AWS/MQ Engineer|October 2016|March 2018|
 |22|[Coventry Building Society](Coventry%20Building%20Society.html)|DevOps Engineer|July 2016|September 2016|
 |21|[Capital One Bank](Capital%20One%204.html)|Middleware Engineer|October 2010|June 2016|
 |20|[Ikano](Ikano.html)|IT Services Manager|March 2010|October 2010|
-|19|[Admin Re](Admin%20Re%201.html)|Oracle DBA|April 2007|February 2010|
+|19|[ReAssure](ReAssure1.html)|Oracle DBA|April 2007|February 2010|
 |18|[Capital One Bank](Capital%20One%203.html)|Middleware Engineer|May 2003|April 2008|
 |17|[Lunn Poly](Lunn%20Poly.html)|Middleware Engineer|September 2001|February 2003|
 |16|[Capital One Bank](Capital%20One%202.html)|Middleware Engineer|August 2000|August 2001|
