@@ -6,7 +6,7 @@ position: Software Engineer
 date: "1990-01-01"
 end_date: "1992-09-01"
 sector: Engineering
-os: VAX VMS,DEC PDP11,Embedded
+os: VAX VMS,DEC PDP11
 languages: C,FORTRAN,PL/M-386,CADB-4GL,PERL,sh
 devops: VAX versioning,make
 ---

@@ -7,7 +7,7 @@ date: "2003-05-01"
 end_date: "2008-04-01"
 sector: Financial Services
 os: HP-UX
-languages: 
+languages: C,sh,PERL,PL/SQL,Pro*C,Java
 devops: ClearCase 
 ---
 # Capital One Bank

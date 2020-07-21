@@ -6,7 +6,7 @@ position: DevOps Engineer
 date: "2016-07-01"
 end_date: "2016-09-01"
 sector: Financial Services
-os: Solaris,linux
+os: Solaris,Linux
 languages: C,csh,PL/SQL
 devops: GoCD,Artifactory,Jenkins
 ---

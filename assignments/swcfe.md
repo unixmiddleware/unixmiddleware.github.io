@@ -5,7 +5,7 @@ name: SWCFE
 position: Lecturer 1
 date: "1986-01-01"
 end_date: "1986-08-01"
-os: z80,6502,MSDOS,PLM
+os: MSDOS,PLM
 languages: Z80,6502,BASIC
 ---
 # South Warwickshire College of Further Education

@@ -6,7 +6,7 @@ position: Researcher
 date: "1986-07-01"
 end_date: "1988-03-01"
 os: Burroughs Mainframe
-languages: Fortran
+languages: FORTRAN
 ---
 # Master of Science
 - University of Warwick

@@ -7,7 +7,7 @@ date: "2016-10-01"
 end_date: "2018-03-01"
 sector: Financial Services
 os: HP-UX
-languages: sh,python,ruby,PERL,PHP,Java,C++,Oracle web services
+languages: sh,Python,Ruby,PERL,PHP,Java,C++,Oracle web services
 devops: Chef,Ansible,Nexus,Artifactory,Jenkins,Gitlab,Github,Docker,AWS
 ---
 # Capital One Bank

@@ -6,6 +6,7 @@ layout: default
 * [Windsor Life](/assignments/Windsor%20Life.html)
 * [Capital One 1](/assignments/Capital%20One%201.html)
 * [BT Ipswich](/assignments/BT%20Ipswich.html)
+* [Capital One 3](/assignments/Capital%20One%203.html)
 * [ReAssure1](/assignments/ReAssure1.html)
 * [Allen Bradley](/assignments/Allen%20Bradley.html)
 * [Capgemini](/assignments/Capgemini.html)

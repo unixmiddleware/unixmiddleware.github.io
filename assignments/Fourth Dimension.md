@@ -5,7 +5,7 @@ name: Fourth Dimension
 sector: Engineering,Leisure
 date: "1988-01-01"
 end_date: "1988-08-01"
-os: VAX VMS,Embedded
+os: VAX VMS
 languages: Z80 Assembler,6502 Assembler,DEC Basic 3+,Pro IV
 devops: VAX versioning
 position: Develop Team Leader

@@ -6,8 +6,8 @@ position: Data Migration DBA
 date: "2018-03-01"
 end_date: "2020-09-01"
 sector: Financial Services
-os: HP-UX,linux
-languages: python,C,sh
+os: HP-UX,Linux
+languages: Python,C,sh
 devops: Ansible,Ansible Tower,Azure
 ---
 # ReAssure

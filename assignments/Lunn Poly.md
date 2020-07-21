@@ -6,7 +6,7 @@ position: Middleware Engineer
 date: "2001-09-01"
 end_date: "2003-02-01"
 sector: Leisure
-os: VAX VMS,Sun Solaris
+os: VAX VMS,Solaris
 languages: C,Java, WebLogic
 devops: Ant,Apache,Tomcat,LoadRunner,JumpStart
 ---
