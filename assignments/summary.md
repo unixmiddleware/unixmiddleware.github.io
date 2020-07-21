@@ -27,11 +27,11 @@ end_date: September 2020
 |12|[Windsor Life Assurance](Windsor%20Life.html)|Software Engineer|July 1995|January 1998|
 |11|[ICL Medicl](ICL%20Medicl.html)|Oracle DBA / Unix SA|September 1993|July 1995|
 |10|[British Telecom](BT%20Ipswich.html)|Software Engineer|September 1992|September 1993|
-|9|[Toby Restaurants](Toby%20Restaurants.html)|Software Engineer|March 1989|December 1989|
-|8|[Racal Redac](Racal%20Redac.html)|Software Engineer|August 1988|March 1989|
-|7|[Metal Box Engineering](Metal%20Box%20Engineering.html)|Software Engineer|August 1988|December 1987|
-|6|[Fourth Dimension](Fourth%20Dimension.html)|Develop Team Leader|December 1987|August 1988|
-|5|[Allen Bradley](Allen%20Bradley.html)|Software Engineer|January 1987|September 1992|
+|9|[Allen Bradley](Allen%20Bradley.html)|Software Engineer|January 1990|September 1992|
+|8|[Toby Restaurants](Toby%20Restaurants.html)|Software Engineer|March 1989|December 1989|
+|7|[Racal Redac](Racal%20Redac.html)|Software Engineer|August 1988|March 1989|
+|6|[Fourth Dimension](Fourth%20Dimension.html)|Develop Team Leader|January 1988|August 1988|
+|5|[Metal Box Engineering](Metal%20Box%20Engineering.html)|Software Engineer|September 1986|December 1987|
 |4|[Master of Science](MSc.html)|Researcher|July 1986|March 1988|
 |3|[SWCFE](swcfe.html)|Lecturer 1|January 1986|August 1986|
 |2|[Stratford High School](Stratford%20High%20School.html)|Teacher|September 1984|August 1985|

@@ -3,7 +3,7 @@ layout: default
 title: Metal Box Engineering
 name: Metal Box Engineering
 position: Software Engineer
-date: "1988-08-01"
+date: "1986-09-01"
 end_date: "1987-12-01"
 sector: Engineering
 os: PDP8,VAX VMS,FORTH
@@ -19,7 +19,7 @@ languages: FORTH,C
 - Permanent Employment
 
 ## Dates: 		
-- September 1985 - December 1987
+- September 1986 - December 1987
 
 ## Summary:
 -	I lead a small team of three software engineers programming in FORTH

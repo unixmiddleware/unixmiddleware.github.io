@@ -3,7 +3,7 @@ layout: default
 title: Fourth Dimension
 name: Fourth Dimension
 sector: Engineering,Leisure
-date: "1987-12-01"
+date: "1988-01-01"
 end_date: "1988-08-01"
 os: VAX VMS,Embedded
 languages: Z80 Assembler,6502 Assembler,DEC Basic 3+,Pro IV
@@ -18,7 +18,7 @@ position: Develop Team Leader
 - Last permanent employment job.
 
 ## Dates: 		
-- December 1987 - August 1988
+- January 1988 - August 1988
 
 ## Summary:
 -	I was responsible for two teams of software developers working on 
