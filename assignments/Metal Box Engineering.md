@@ -6,8 +6,8 @@ position: Software Engineer
 date: "1986-09-01"
 end_date: "1987-12-01"
 sector: Engineering
-os: PDP8,VAX VMS,FORTH
-languages: FORTH,C
+os: DEC OS/8,VAX VMS,FORTH
+languages: FORTH,C,Informix
 ---
 # Metal Box Engineering
 - Worcester
