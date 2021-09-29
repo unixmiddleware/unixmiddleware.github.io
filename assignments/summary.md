@@ -4,15 +4,15 @@ title: Timeline
 name: Timeline
 position: Software Engineer
 date: September 1979
-end_date: September 2020
+end_date: December 2021
 ---
-## Assignment History
+## History Timeline
 
 
 {:.w3-table-all}
 |No|  Company |     Role/Title     |    From    |    To    |
 |--|----------|:------------------:|:----------:|:--------:|
-|24|[ReAssure](ReAssure2.html)|Data Migration DBA|March 2018|September 2020|
+|24|[ReAssure/Phoenix Group](ReAssure2.html)|Azure Devops Engineer & Data Migration Specialist|March 2018|December 2021|
 |23|[Capital One Bank](Capital%20One%205.html)|AWS/MQ Engineer|October 2016|March 2018|
 |22|[Coventry Building Society](Coventry%20Building%20Society.html)|DevOps Engineer|July 2016|September 2016|
 |21|[Capital One Bank](Capital%20One%204.html)|Middleware Engineer|October 2010|June 2016|

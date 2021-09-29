@@ -1,26 +1,27 @@
 ---
 layout: default
 title: ReAssure 2
-name: ReAssure
-position: Data Migration DBA
+name: ReAssure part of the Phoenix Group
+position: Azure Devops Engineer & Data Migration Specialist
 date: "2018-03-01"
-end_date: "2020-09-01"
+end_date: "2021-12-31"
 sector: Financial Services
 os: HP-UX,Linux
-languages: Python,C,sh
-devops: Ansible,Ansible Tower,Azure
+languages: Python,C,sh,Groovy,Powershell
+devops: Azure DevOps,Ansible,Ansible Tower,Jenkins
 ---
 # ReAssure
 - Telford
 
 ## Roles:		
-- Data Migration DBA
+- Azure DevOps Engineer
+- Data Migration Specialist
 
 ## Dates: 		
-- March 2018 - September 2020
+- March 2018 - December 2021
 
 ## Summary:
--	migration of pension data from acquired system to ReAssure's ALPHA 
+-	migration of pension data from acquired system to ReAssure's ALPHA platform
 -	sqlldr scripts for loading extracted data
 -	pandas and openpyxl for extracting data from Excel workbooks.
 -	python generator based parsing and extraction of huge fixed length data files
