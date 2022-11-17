@@ -18,9 +18,16 @@ devops: Azure DevOps,Ansible,Ansible Tower,Jenkins
 - Data Migration Specialist
 
 ## Dates: 		
-- March 2018 - December 2021
+- March 2018 - on going
 
 ## Summary:
+-	Azure DevOps YAML pipelines for CI/CD
+-	Jenkins pipelines CI/CD
+-	Ansible playbooks supporting developers and CI/CD
+-	Groovy, java and python scripting
+-	Python flask service to aid parallel builds, artifact rerieval 
+-	Python flask, Load Runner, Jmeter, influxdb and grafana for performance management
+-	Scheduled processes for agent clean up and deployment
 -	migration of pension data from acquired system to ReAssure's ALPHA platform
 -	sqlldr scripts for loading extracted data
 -	pandas and openpyxl for extracting data from Excel workbooks.
@@ -32,5 +39,4 @@ devops: Azure DevOps,Ansible,Ansible Tower,Jenkins
 -	Management of Connect Direct disk volumes for data delivery
 -	Apache instances for distributed data access
 -	Jupyter notebooks for reviewing raw data, data visualisation and progress
--	bokeh for data visualization standalone and integrated with python flask
-
+-	Bokeh for data visualization standalone and integrated with python flask
